@@ -15,4 +15,4 @@ Active Learner: Machine learning and deep learning
 Programming languages: Python, HTML, CSS, SQL, Javascript
 Tools and frameworks: TensorFlow, PyTorch, scikit-learn, Keras, Pandas, NumPy, Matplotlib, Flask
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omniashehata/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omniashehata/)
