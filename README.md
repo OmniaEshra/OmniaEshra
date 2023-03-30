@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omniashehata/)
 [![Gmail](https://img.shields.io/badge/-Gmail-darkred?style=for-the-badge&logo=Gmail&logoColor=white)](omnia.eshra@ejust.edu.eg)
-[![Twitter](https://img.shields.io/badge/-Twitter-lightblue?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/omniashehata17)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/omniashehata17)
 
 
 
