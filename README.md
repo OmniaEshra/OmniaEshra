@@ -15,4 +15,4 @@ Programming languages: Python, HTML, CSS, SQL, Javascript
 Tools and frameworks: TensorFlow, PyTorch, scikit-learn, Keras, Pandas, NumPy, Matplotlib, Flask
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omniashehata/)
-[![Gmail](https://img.shields.io/badge/-LinkedIn-darkred?style=for-the-badge&logo=linkedin&logoColor=white)](omnia.eshra@ejust.edu.eg)
+[![Gmail](https://img.shields.io/badge/-Gmail-darkred?style=for-the-badge&logo=linkedin&logoColor=white)](omnia.eshra@ejust.edu.eg)
