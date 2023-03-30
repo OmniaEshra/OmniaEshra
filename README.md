@@ -1,5 +1,7 @@
 ### Data Science and AI Enthusiast
 Hello and welcome to my GitHub profile!👋 I am a dedicated and motivated individual with a passion for data science and artificial intelligence (AI).
+
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omniashehata/)
 [![Gmail](https://img.shields.io/badge/-Gmail-darkred?style=for-the-badge&logo=linkedin&logoColor=white)](omnia.eshra@ejust.edu.eg)
 
