@@ -1,5 +1,7 @@
 ### Data Science and AI Enthusiast
 Hello and welcome to my GitHub profile!👋 I am a dedicated and motivated individual with a passion for data science and artificial intelligence (AI).
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omniashehata/)
+[![Gmail](https://img.shields.io/badge/-Gmail-darkred?style=for-the-badge&logo=linkedin&logoColor=white)](omnia.eshra@ejust.edu.eg)
 
 ### About Me
 As an ambitious and driven individual, I possess a strong interest in the ever-evolving fields of data science and AI. My relentless pursuit of knowledge and desire to stay on the cutting edge of technological advancements have earned me a reputation as a top performer in these fields.
@@ -14,5 +16,4 @@ Active Learner: Machine learning and deep learning
 Programming languages: Python, HTML, CSS, SQL, Javascript
 Tools and frameworks: TensorFlow, PyTorch, scikit-learn, Keras, Pandas, NumPy, Matplotlib, Flask
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omniashehata/)
-[![Gmail](https://img.shields.io/badge/-Gmail-darkred?style=for-the-badge&logo=linkedin&logoColor=white)](omnia.eshra@ejust.edu.eg)
+
