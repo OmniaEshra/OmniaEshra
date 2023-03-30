@@ -1,6 +1,6 @@
 ### Data Science and AI Enthusiast
 #### Hello and welcome to my GitHub profile!👋 
-""" I am a dedicated and motivated individual with a passion for data science and artificial intelligence (AI).
+ I am a dedicated and motivated individual with a passion for data science and artificial intelligence (AI).
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omniashehata/)
@@ -14,6 +14,7 @@ I have a proven track record of dedicating myself to my studies and always worki
 I have seized every opportunity to gain valuable experience in these fields. My passion for data science and AI is reflected in my eagerness to learn and grow, and I am confident that I can thrive in any role in these areas.🌱🌱🌱
 
 
+*************
 ### Skills
 Active Learner: Machine learning and deep learning
 Programming languages: Python, HTML, CSS, SQL, Javascript
